@@ -1,0 +1,6 @@
+{
+  "name": "Life Line",
+  "description": "Full-stack medical portal with custom patient, doctor, and admin modules, emergency dispatch request forms, BMI metrics track, and a virtual Gemini AI clinical wellness counselor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
